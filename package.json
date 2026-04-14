@@ -1,0 +1,15 @@
+{
+  "name": "chai-code",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel - youtube",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "ARYAN CHOUDHARY",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
